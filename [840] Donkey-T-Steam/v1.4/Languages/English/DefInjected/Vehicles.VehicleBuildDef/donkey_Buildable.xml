@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+	<!-- EN: Donkey Blueprint Translation -->
+		<VVE_donkey_Blueprint.label>Donkey</VVE_donkey_Blueprint.label>
+		<VVE_donkey_Blueprint.description>A commercial truck commonly seen in the industrial era. Utilizing a simple and classic appearance, the compact cabin leaves as much space as possible for the cargo box on the frame. Please ignore all complaints from larger colonists about the cockpit being too small, they are overexaggerated. Useable for transportation. \n\n&lt;color=#bb8f04&gt;Crew:&lt;/color&gt; Driver x1, Passenger x1\n&lt;color=#bb8f04&gt;Fuel type:&lt;/color&gt; Chemfuel</VVE_donkey_Blueprint.description>
+	
+</LanguageData>	
